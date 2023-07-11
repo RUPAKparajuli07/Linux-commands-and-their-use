@@ -120,4 +120,3 @@ Some Commands of linux
 35. `scp` - Securely copy files between hosts
    - Syntax: `scp [options] [source] [destination]`
    - Example: `scp file.txt user@example.com:/home/user`
-
