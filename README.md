@@ -5,7 +5,7 @@ Some Commands of linux
 
 2. `cd` - Change directory
    - Syntax: `cd [directory]`
-   - Example: `cd /var/www`
+   - Example: `cd /var/www` 
 
 3. `pwd` - Print working directory
    - Syntax: `pwd`
