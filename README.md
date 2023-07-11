@@ -1,4 +1,4 @@
-`                                                        Some Commands of linux
+Some Commands of linux
 1. `ls` - List files and directories
    - Syntax: `ls [options] [directory]`
    - Example: `ls -l /home`
